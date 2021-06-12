@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f7c4b3bf.chunk.css",
+    "main.js": "/static/js/main.2da3c80d.chunk.js",
+    "main.js.map": "/static/js/main.2da3c80d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.037aab89.js",
+    "runtime-main.js.map": "/static/js/runtime-main.037aab89.js.map",
+    "static/js/2.bd9b8bcc.chunk.js": "/static/js/2.bd9b8bcc.chunk.js",
+    "static/js/2.bd9b8bcc.chunk.js.map": "/static/js/2.bd9b8bcc.chunk.js.map",
+    "static/js/3.2a8ac236.chunk.js": "/static/js/3.2a8ac236.chunk.js",
+    "static/js/3.2a8ac236.chunk.js.map": "/static/js/3.2a8ac236.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f7c4b3bf.chunk.css.map": "/static/css/main.f7c4b3bf.chunk.css.map",
+    "static/js/2.bd9b8bcc.chunk.js.LICENSE.txt": "/static/js/2.bd9b8bcc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/MuseoSansCyrl.49e8040c.otf",
+    "static/media/bad.70845700.png": "/static/media/bad.70845700.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.037aab89.js",
+    "static/js/2.bd9b8bcc.chunk.js",
+    "static/css/main.f7c4b3bf.chunk.css",
+    "static/js/main.2da3c80d.chunk.js"
+  ]
+}
